@@ -1,10 +1,8 @@
 # Introduction
-Hello everyone! I'm Yiyuan (Jenny) Li, a highly motivated professional with a strong background in business analytics, accounting, and project management.
-
+Hello everyone! I'm Yiyuan (Jenny) Li, a highly motivated professional with a strong background in business analytics, accounting, and project management. I am deeply aligned with GetMotivatedBuddies' vision of fostering motivation, personal growth, and accountability. Excited to contribute my skills and passion for the company's success.
 
 # Education Background: 
 I hold a Master of Quantitative Management (MQM) in Business Analytics from Duke University's Fuqua School of Business (expected completion: May 2024). Additionally, I recently obtained a Master of Professional Accountancy (MPAc) from UCSD's Rady School of Management. I earned my Bachelor of Business Administration in Accounting from Shandong Jianzhu University in China.
-
 
 # Technical Skills: 
 I possess a valuable range of technical skills that can contribute to GetMotivatedBuddies' success. I'm proficient in Python (NumPy, Pandas, Scikit-Learn, Seaborn), SQL, Tableau, R, SPSS, Power BI, and Figma. I also hold a Certified Management Accountant (CMA) certification and excel in Microsoft Office tools.
