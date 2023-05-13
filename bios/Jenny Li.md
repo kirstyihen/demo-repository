@@ -1,11 +1,10 @@
-# Short Intro/Bio
 
-Introduction:
+#Introduction:
 
 Hello everyone! I'm Yiyuan (Jenny) Li, a highly motivated professional with a strong background in business analytics, accounting, and project management.
 
 
-Education Background: 
+#Education Background: 
 
 I hold a Master of Quantitative Management (MQM) in Business Analytics from Duke University's Fuqua School of Business (expected completion: May 2024). Additionally, I recently obtained a Master of Professional Accountancy (MPAc) from UCSD's Rady School of Management. I earned my Bachelor of Business Administration in Accounting from Shandong Jianzhu University in China.
 
