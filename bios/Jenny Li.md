@@ -17,4 +17,4 @@ Leveraging my data analytical skills and business acumen, I aim to drive the com
 I'm genuinely excited about the prospect of joining GetMotivatedBuddies and working towards achieving the company's goals. With my educational background, technical skills, professional experience, and passion for personal development, I am confident that I align well with the company's objectives. I am eager to contribute my energy, expertise, and dedication to this startup business.
 
 # Why GMB?
-
+Drawing from my dad's entrepreneurial journey, I intimately grasp the challenges of developing a startup. I aspire to leverage my data analytical skills and business acumen to enhance customer satisfaction and foster loyalty at GMB. GetMotivatedBuddies' vision of personal growth deeply resonates with me, as I believe outstanding businesses deserve widespread recognition. Enthusiastically, I look forward to contributing my data skills, collaborating with a diverse team. To me, GMB is my motivated buddy!
